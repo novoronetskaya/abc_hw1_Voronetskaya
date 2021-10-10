@@ -1,0 +1,1 @@
+Division result average = 327.026

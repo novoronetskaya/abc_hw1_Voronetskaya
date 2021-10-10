@@ -1,0 +1,29 @@
+Filled container:
+Container contains 3 elements.
+0 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Director1
+Division result = 475
+1 
+It is Cartoon:
+publication year = 1991
+film name = Cartoon
+type = puppet
+Division result = 284.429
+2 
+It is Documentary:
+publication year = 2003
+film name = Documentary
+film length = 120
+Division result = 182.091
+
+Filtered container:
+Container contains 1 elements.
+0 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Director1
+Division result = 475

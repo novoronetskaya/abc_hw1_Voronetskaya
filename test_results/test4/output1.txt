@@ -1,0 +1,89 @@
+Filled container:
+Container contains 10 elements.
+0 
+It is Cartoon:
+publication year = 1991
+film name = werwedfon
+type = puppet
+Division result = 221.222
+1 
+It is Cartoon:
+publication year = 1981
+film name = Casdon
+type = drawn
+Division result = 330.167
+2 
+It is Cartoon:
+publication year = 1921
+film name = Chgdsertyon
+type = plasticine
+Division result = 174.636
+3 
+It is Cartoon:
+publication year = 1931
+film name = wertgfxon
+type = puppet
+Division result = 214.556
+4 
+It is Cartoon:
+publication year = 1941
+film name = qadfghjkn
+type = plasticine
+Division result = 215.667
+5 
+It is Cartoon:
+publication year = 1951
+film name = dgfnyn
+type = plasticine
+Division result = 325.167
+6 
+It is Cartoon:
+publication year = 1961
+film name = pokjhgf
+type = plasticine
+Division result = 280.143
+7 
+It is Cartoon:
+publication year = 1911
+film name = sdfgh
+type = drawn
+Division result = 382.2
+8 
+It is Cartoon:
+publication year = 1901
+film name = vfg
+type = puppet
+Division result = 633.667
+9 
+It is Documentary:
+publication year = 1997
+film name = ssqwertysxcfgg
+film length = 90
+Division result = 142.643
+
+Filtered container:
+Container contains 4 elements.
+0 
+It is Cartoon:
+publication year = 1981
+film name = Casdon
+type = drawn
+Division result = 330.167
+1 
+It is Cartoon:
+publication year = 1951
+film name = dgfnyn
+type = plasticine
+Division result = 325.167
+2 
+It is Cartoon:
+publication year = 1911
+film name = sdfgh
+type = drawn
+Division result = 382.2
+3 
+It is Cartoon:
+publication year = 1901
+film name = vfg
+type = puppet
+Division result = 633.667

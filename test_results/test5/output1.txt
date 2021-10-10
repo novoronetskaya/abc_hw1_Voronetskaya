@@ -1,0 +1,77 @@
+Filled container:
+Container contains 8 elements.
+0 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Directadsv
+Division result = 316.667
+1 
+It is Cartoon:
+publication year = 1991
+film name = Oihjkn
+type = puppet
+Division result = 331.833
+2 
+It is Documentary:
+publication year = 2003
+film name = Akjadhjdjery
+film length = 350
+Division result = 166.917
+3 
+It is Game Film:
+publication year = 1988
+film name = 1988
+director name =  Director1
+Division result = 331.333
+4 
+It is Cartoon:
+publication year = 1967
+film name = Qwergzcn
+type = puppet
+Division result = 245.875
+5 
+It is Documentary:
+publication year = 2010
+film name = Mghjytfy
+film length = 400
+Division result = 251.25
+6 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Director1
+Division result = 380
+7 
+It is Cartoon:
+publication year = 1990
+film name = Asdghjklkj
+type = puppet
+Division result = 199
+
+Filtered container:
+Container contains 4 elements.
+0 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Directadsv
+Division result = 316.667
+1 
+It is Cartoon:
+publication year = 1991
+film name = Oihjkn
+type = puppet
+Division result = 331.833
+2 
+It is Game Film:
+publication year = 1988
+film name = 1988
+director name =  Director1
+Division result = 331.333
+3 
+It is Game Film:
+publication year = 1900
+film name = 1900
+director name =  Director1
+Division result = 380
